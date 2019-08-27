@@ -3,6 +3,7 @@
 
 <ul>
   <li type="square">Introducción</li>
+  <li type="square">K-means</li>
   <li type="square">Tweepy</li>
   <li type="square">Web Scraping</li>
   <li type="square">Word2Vec</li>
@@ -13,5 +14,6 @@
     <li>Regresión Lineal</li>
     <li>Regresión Logística</li>
     <li>Naive Bayes</li>
+    <li>Reglas de Asociación</li>
   </ul>
 </ul>
