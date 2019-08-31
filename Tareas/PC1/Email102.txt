@@ -1,0 +1,1569 @@
+project gutenberg ebook email goodwin
+
+ebook anyone anywhere almost restrictions under terms project gutenberg license included ebook online
+
+copyrighted project gutenberg details below please follow copyright guidelines
+
+email
+
+goodwin
+
+posting february release
+
+english
+
+start project gutenberg ebook email
+
+email alpha suggestions included final
+
+rough version missing chapters
+
+copyright rights
+
+distribute verbatim copies these course notes purposes using provided copyright notice preserved
+
+information taking internetworking contact
+
+goodwin
+
+
+
+
+
+those little machines access suppose there still people given teller instead those people admit option doing things remember before automatic banks closed saturday guess money would following wrong check store maybe something there always credit
+
+think people automatic teller because privacy handling their business without having explain someone illusion having access account anytime there disadvantages using automatic teller month remember deduct those account balance bounce pretty competent using automatic teller sleep worrying
+
+course designed sense freedom competence internet automatic teller machine communications connect other computers phone exchange electronic trade search those computers connected worldwide network called connect there million access hundreds informative
+
+verge method communicating people machines called internetworking
+
+avoid playing phone
+
+receive special interest electronic newsletters
+
+access hundreds information services document collections exactly hundreds different instructions hundreds special purpose software
+
+communicate other people share
+
+internetworking essential skill children common viewing television using still rough explain
+
+there actually single network owned company called networks grown together create connects together nearly million hundreds these computers allow public latest download information about government programs search library catalogues download other little monetary investment beyond
+
+using internet internet little month communications software there expensive connect these sense businesses organizations heavy course discuss methods these methods suitable exploring after hours casual provide basic information about expensive methods connecting informed decisions networking needs should increase
+
+internetworking means mastering whole computers together using internet learn methods transferring information remote computer complex involve using transfer protocol compression
+
+because information world biggest problem likely connecting finding course covers mechanics making connection transferring techniques locating material course savvy about costs different connection means estimating whether megabyte transfer information faxed friendly
+
+course intended general anyone needs information communicate whether researching writing trying technical information these techniques
+
+chapters marked asterisk omitted
+
+course contents
+future internetworking
+
+
+
+connect
+
+
+
+internet basics
+
+getting internet
+
+programs pictures
+
+compression methods faster transfer
+
+
+
+employee employees internetworking
+
+special concerns
+special businesses
+
+special students their parents
+
+special printers
+
+special elementary school teachers
+
+special librarians
+
+special scholars
+
+special mosques
+
+writing
+research methods basic navigation methods
+
+research methods usenet newsgroups
+
+research methods advanced techniques
+
+organizing information
+
+information structures
+
+boolean logic
+
+writing internetworked basic problems
+
+writing internetworked getting through audience
+
+resources
+internet address
+
+bibliography
+
+glossary
+
+appendix computer hints green
+
+appendix using modem
+
+technical details internet connection
+
+appendix enough
+
+appendix things
+
+future internetworking
+
+there fashioned connect other computers share information there modern helpful compare methods briefly order contact methods already advantages using
+
+fashioned method making contact other computers through bulletin board service bulletin board services method sharing playing personal range small special interest bulletin boards local following giant national boards access bulletin board modem communication software dialing telephone local distance couple dollars connect
+
+basic services offered bulletin board internet
+
+access computer telnet
+
+transfer capability
+
+ability contact other members individually
+
+ability messages general consumption
+several
+difference whereas dialup transfer billing internet method computers savings terms anonymous information difference between using postal service using special courier person write letter address envelope stamp write
+
+internet added savings communications software works special software information familiar graphical interface connect usual situation where special program connect replaced situation which single program there comply standardization advantage using
+
+bulletin boards still easiest connect internet through national bulletin board disadvantage method compuserve offer telnet often charge message using quite there better
+
+
+
+think internet communications medium postal using internet written rather mailing letter having arrive backwards parts using special protocol called transfer protocol transfer files about transfer graphics equivalent third internet equivalent telephoning password logging access search nearly million details telnet contained chapter internet
+
+chapter internet rather concentrating trees occupy later paints picture computing world which internet telephone receiver government numbers credit leave message answering might possibly other great experience negotiating their various sense world necessary avoid getting thickets procedures developed different
+
+approach middle normal working situation offices approaching something there local network connecting together personal mainframes different without connected other network global network called research laboratories likely commercial except likely difference between academia commerical world rapidly becoming
+
+addition there office computers global network using these computers portable computers outside salespersons connecting central office computer desktop publishing company connecting briefly internet graphic parent sending their child
+
+getting
+
+members computer literate there three reasons using internet first rather though actually rather simple gritty
+
+getting internet little
+
+capability logging computers never before nature means facing hence
+
+world
+
+think first remembering using distance service before breakup people alternative carriers sorts access often local access credit security number party whatever after going
+
+getting internet local access modem settings right magic combination after actually internet through initial while unconscious unlocking front tuning television
+
+second problem little using yourself situations because internet gives freedom least uncover strange incompatibilities unfamiliar experience point likely yourself computer program expects command happen
+
+mostly avoid situations trying things about which situation different using stick paths dialing local numbers simple distance little start dialing other countries special numbers surprise
+
+expect something called shell prompts
+
+other obscure
+
+
+
+
+
+
+
+
+
+command since logged computer
+
+prompt means other computer expects command shell outer layer interact
+
+other types might encounter
+
+systems choice numbers
+
+systems graphical interfaces pronounced
+
+systems popular bulletin board usually present problem their weakness cloying after about systems designed length longer where guessed shell
+
+windowing systems often window gives shell prompt
+
+three common graphical likely shell advice things likely started given appendix experience other kinds especially computers operating system about using other operating systems encountered before given appendix
+
+whether being experimental helpful remember
+
+always disconnect remote service using communications software
+
+computer gives strange symbol percent dollar stares computer something return where
+
+instructions further should remember these write
+
+communications program other active disconnect phone these steps order unwise simply computer modem computer
+
+suggestions inexperienced given appendix
+
+final hurdle using internet world indeed large using internet
+
+where
+
+information where might
+
+
+
+system these strategy works explore different course designed initial grounding methods point right exploration initial describe worlds known
+
+three worlds known internet
+
+ancient divided three these parts territories their favorite favored conveniently refer dossier three
+
+personal computer
+typical clones macintosh
+conventional operating
+windowing macos
+typical
+about everybody
+workstation
+typical other vendors
+conventional operating major
+windowing windows
+typical workstation
+businesses
+mainframe minicomputer
+typical digital equipment vaxes
+conventional operating
+windowing available
+typical minicomputer mainframe
+government
+picture three worlds distorted somewhat tendency worlds major either choice operating world split people world split workstations
+
+three worlds reflected somewhat internet dominated minicomputers workstations running increasing influx running machines running other operating systems often almost believe dealing there certain sense software standard software tends appear machines first other
+
+makes possible these disparate machines other formally transport control thought rules computers communicate
+
+thinking computer systems having closer truth complicated systems internet internet level called protocol belongs middle common protocol levels rather coaxial cable cable while levels completely dependent profusion levels which internet about hardware software different
+
+internet several having diffent using protocol their middle connected adopt internet protocol internet first designed network called darpa defense advanced research projects agency department network connecting universities government laboratories national science these other large networks today there hundreds smaller hooked
+
+there networks context mainframes large universities research bitnet large worldwide network internet bitnet reached internet through special translators called definitely different occasionally encounters problems traced
+
+future internet
+
+future technology difficult profess future holds predictions various forcasters internetworking telecommunications
+
+proposal called research education upgrade
+
+commercial internet become common schemes charging
+
+internet handed government other charge access whole scheme
+
+optical fiber replace coaxial cable common standard
+
+internet enter ordinary phone
+
+internet enter existing cable coaxial
+
+internet enter through newly strung optical fiber unified system cable using favorite protocol
+
+personal computers replace answering universal device sounds thing connect
+
+computer telephone technology become intertwined already described alphanumeric computer backlit screen pcmcia cellular voice
+
+welcome believe these
+
+connect
+
+connecting internet involves several
+
+getting modem communications software working together
+
+connecting provider phone lines
+
+using internet services
+
+first manuals modem appendix contains discussion obscurer terminology associated modem might manual
+
+about second great mostly matter knowing enough intellegently choose provider specific access follow order there finished hardest chapter contains explicit instructions connecting particular
+
+subject basics discussed
+
+connection methods
+
+there three connect internet personal computer
+
+direct means local network connected component networks computer internet protocol connection common especially definitely
+
+connection computer directly connected modem connect mainframe office mainframe internet connection office mainframe still subscribe service makes computer available presently cheapest common method public access
+
+there connection method between cases called serial internet protocol special difference server gives temporary address talks computer using internet requires software speak computer thinks using though actual connection closer advantage fooling terminal thinking direct connection software developed computers direct
+
+software connection being built communications bought upgraded probably capability cheap modem works reason modem enough gives ability receive faxes
+
+technology still rather somewhat discussion focus service public access
+
+depending where provider local problem finding cheapest distance phone since gives cheap gives instructions providers their rates would rather teach yourself outdated method advantage instructions works listed instructions given internet
+
+types internet providers
+
+problem getting occurs local basically there three kinds providers three
+
+providers direct setting business volume direct connection office local network afford several thousand consider these relevant appendix
+
+there several regional networks national specialize costs range month depending services performance systems international major provider other networks offer services similar although extensive nationwide service service competitive service frequent occasional definitely worth
+
+computer bulletin board services offer internet connections around careful check connection careful could charged using bulletin board using surcharge daytime message charge purposes explain minefield charges service recommended bundles charges front there
+
+generally connecting internet through method determined internet regular regional networks probably economical
+
+unless fortunate enough where internet provider local contend distance these sometimes bundled network connection
+
+finding cheapest distance method
+
+there three basic methods paying
+
+another
+expensive
+provider number
+higher connect
+public network after hours around
+
+method workable there number
+
+compuserve compuserve
+
+network points presence around these divided class class depending level service
+
+tymenet sprintnet other public heard sprintnet service monthly gives nationwide computer reached
+
+first experiment recommend delphi delphi includes sprintnet surcharge hours expensive writing hours first month hours month after additional hours there hours additional hours detailed instructions given internet
+
+
+
+making everyone using internet calling computer switzerland billed marvelous thing about internet although there plenty expense involved getting there additional expense associated after whole world modem connect internet every internet
+
+since people believe anywhere world computer other globe without paying special spend explaining internet those costs reflected another network these payments direct billing
+
+already there monitors calls instead there hundreds smaller networks those networks charge their customers based takes where since charging incentive instead charge based connect connection yearly
+
+network traffic internet works potluck everyone direct connection allows their system resources messages allow because other systems allow interest allow their resources consumed other because everyone comes
+
+sites direct connections costs terms computing extra fancier these costs passed their customers shouldered government there direct charges associated using
+
+early government subsidy backbone networks backbone built government funds government funds extra equipment needed universities laboratories carried traffic development commercial alternatives backbone government subsidy still becomming every
+
+short answer either provider taxpayer government subsidized network actually placing phone whatever provider charges
+
+internet basics
+
+talked about actually
+there three basic skills which internet
+electronic
+
+transfer protocol
+
+telnet
+
+three commands internet addressing internet another computer internet protocol number looks
+
+
+
+called still required addresses easier telephone number another which easier
+
+
+
+means computer named located university southern north means institution educational other domain names
+
+educational institutions
+
+government laboratories
+
+commercial businesses
+
+nonprofit organizations
+
+military installations
+
+addition these domain there country
+
+canada
+
+japan
+
+united kingdom
+
+united states
+
+
+
+electronic someone their followed domain
+
+
+
+donotes private citizen computer called
+
+another
+
+
+
+address
+
+examples follow details typical windowing systems dialog these happening behind faced
+
+electronic
+
+details using system depend basically looks
+
+program
+
+welcome version
+
+
+
+
+return
+carbon
+internet
+
+
+
+
+internet connection address
+
+
+
+
+whatever system needs signal
+
+system ready
+
+telnet
+
+addition using internet address rather dialing computer except local computer called calling remote
+
+
+
+example assumes shell prompt given local computer prompt given remote computer section
+
+telnet
+
+welcome running
+
+
+password
+login
+
+whatever commands until
+
+logoff
+
+session terminated
+
+continue issuing commands
+
+method connecting another computer called local computer telephone remote anything remote computer certain could logged
+
+special problems telnetting
+sometimes telnetting program special problem getting other computer recognize screen since communications software amounts telling other system terminal communications system
+
+system might
+
+
+
+other system communications software thinks terminal common choice emulation
+
+exactly telnet session probably worth spending problem brief contact other going remote computer every behavior traced
+
+transfer protocol
+
+transfer files internet using special protocol called takes place programs xmodem kermit familiar bulletin board might transfers differnce between sending prefer
+
+first avoids certain restrictions binary files programs restricted particular often
+
+directory files before choosing directory hierarchy looking
+
+places account friend method doing called described there several hundred large collections anonymous internet equivalent important topic
+
+anonymous
+
+further facility requires little knowledge operating appendix
+
+getting internet
+
+course takes different approach rather
+
+should contact following
+
+provider
+
+internet
+
+
+
+modem understands commands command
+
+communications
+
+credit
+
+example assumes signing bulletin board service delphi commercial relationship chosen example because rates typical offers nationwide includes afterhours access sprintnet basic because offers hours internet access
+
+should definitely consider other information about other providers first steps
+
+modem local linefeeds manual manual communications appendix
+
+worry options duplex implies local software these separate
+
+communications software issue directly command phone instead
+
+delphi explicit reference
+
+after
+surcharge daytime
+local sprintnet access number
+
+after
+
+after carriage
+
+
+
+delphi
+after
+
+yourname
+opensesame
+username password
+
+anytime forget sprintnet access sprintnet numbers
+
+first
+internet resource
+listserv signing
+first anonyomous
+
+surfing internet
+
+first telnet
+
+getting public access reading usenet
+
+first
+getting information
+getting information listserv
+things information especially internet other retrieval methods should experiment using information starting experience useful systematic study internet research methods
+
+programs pictures
+
+experience finding transfering transferring binary files containing pictures software large archives
+
+
+
+
+
+compatible
+
+first software software compressing uncompressing files processing graphics perhaps
+
+binary binary unlike which consists groups eight letters representing binary files meant cannot typing processor understands format expensive processing popular perfect microsoft increasingly large variety binary
+
+frequently encountered binary files
+
+files proprietary database these files contain formatting perhaps other goodies beyond simple
+
+these programs written machine language computer files written programming vendors almost never their source which compile
+
+files compressed about their popular compression compression makes texts files compression files already binary unless contain
+
+files containing graphics
+
+transfering binary files transfering files understand potential
+
+programs start means files computer computer their fatal binary files because their pattern nothing groups eight
+
+files slight compatibility problems because three different control character represent translation between different dialects handled automatically reason files cannot transfered binary
+
+control characters involved called
+
+compatibles
+
+macintosh
+
+
+
+mentioned files often compressed means program uncompress before transfer binary
+
+common compression programs common extensions
+
+compatibles pkzip pkunzip
+
+macintosh stuffit unstuffit archives
+
+compress uncompress archive together being common capital
+
+command files usually extension archive
+
+fortunately usually software computer uncompress formats other computer current information compression newsgroup
+
+sometimes binary files converted ascii looks gibberish mailed transferred again program translates sometimes encounter ultimate compressed ascii actually makes sense large number related files stored compressed
+
+common programs
+
+usenet postings binary files mailing extension encountered because there little reason store files
+
+binhex macintosh often combined stuffit common method distributing files program single
+
+uuencoded files recognized every begins capital exactly starts translating program needs these nothing above below often uuencoded split several parts transmission reassembled stripped processing program before resulting proprietary format processing
+
+graphics
+
+second topic chapter graphic graphics important desktop businesses prepare their small pictures stored separate files embedded other formats proprietary format microsoft picture files large amount pictures megabyte typical smallish picture moderate picture worth about pages
+
+lifecycle typical graphic something
+
+capturing photograph optical scanner special camera
+
+better optical scanner looks small xerox there cheaper flatbed scanners range likely unless casual graphic someone collection create graphic scratch drawing
+
+storage using interchange format
+
+however image stored before there perhaps twenty common those found often internet usenet newsgroups
+
+interchange rather commonly found graphics almost software common format anonymous
+
+image technically versatile about choice exchanging files between different
+
+special compressed image format becoming common newer
+
+really graphics instructions drawing success postscript description language laser printers stategy including graphics processing processing programs microsoft allow include reference external postscript containing
+
+desktop publishing processing programs often import graphics these especially
+
+files proprietary formats macintosh these formats serve standards their computers across different fortunately software convert
+
+transmission point
+
+suppose graphics processing containing
+
+academic quite possible other institutions anonymous transfer binary could exchange passwords transfer direct connection
+
+finished brochure suppose business offices macintoshes microsoft software macintosh necessarily proceed
+
+using uuencode convert microsoft
+coded
+break
+
+receiving reassemble strip headers
+trailers added should
+begin first
+
+
+
+
+
+saved
+
+uudecode recover binary
+
+microsoft binary
+
+there slight macintosh files resource contains information application click little simpler programs encode resource generic document clicking infamous should recover missing smarter
+
+certainly procedure might before beating capability transfering computer seconds crucial software casual connection around learn printers commonly accept submissions direct transfer telephone imagine having figure rainy having across minutes before
+
+image enhancing color separation
+
+great advantages having graphic computer software around convert color black white enhance halftones color spatial frequency spectrum separations images needed black
+
+importing embedding processing desktop publishing program
+
+happy picture import graphic processing program reads format picture software converts format process found better results converting obscure format standard common format before converting proprietary target software reads obscure format
+
+printing laser printer other equipment
+
+graphic solely intended display slide printed there picture
+
+
+
+first thing information getting better internet barring there reasons might workarounds require might stuck somewhere where there internet could borrowing access since internetworking about communicating important chapter
+
+first consider methods
+
+servers
+
+archie
+
+mailservers fileservers
+
+mailing lists
+
+
+
+useful except regard
+
+things
+
+getting things
+appendix
+employee employees internetworking
+
+short chapter contains little advice learn about
+should clear preceding chapters learning
+internet survival skill
+effective electronic medium
+saves employee phone three delay surface
+
+avoids circuitous means transfering printing faxing rekeyboarding receiving
+
+allows businesses individuals distribute their whether graphical appearance
+
+provides access allows communication distribution documents uniform
+
+should clear internetworking easily learned requires knowledge skills presently taught anywhere except internet
+
+section discusses specific needs different segments final section contains fairly systematic exposition methods skills needed internetwork representing these sections would stress learn internetworking through undirected exploration
+
+means employees least their anonymous usenet these activities directly playing program someone office
+
+right usenet newsgroup retrieve
+
+learn about software solve
+problem where latest version
+connect software archive transfer
+though intervening machine
+properly decompress install
+
+attained employee
+
+final neglect usenet usenet difficult basic because really internet commonly found internet computers commonly transmitted scheme internet provider provide ferret getting account public access system learning easier worth learning system command contained appendix
+
+guide dated terms information usenet hidden among diversions latest information computing environment modern opinion learning newsreader reading network regularly important internetworking usenet newsgroups dewey decimal system world information found plenty guides information usenet guide
+
+special concerns
+
+lists briefly which various groups people internetworking
+
+special businesses
+
+better business could describe hundreds services interest internet there before knowing smile shaking another unlikely technological potential internet communication radio television important about newspapers direct businesses money selling newspapers operating radio businesses these media employees become adept using medium reasons mastered layout newpaper writing
+
+important understand internet broadcast medium telephone specializes contacting individuals other going million addresses bombard every minutes second sound going people letter asking contact persons other might medium contact mailing customers promotional
+
+amount commercial traffic internet disappointingly mostly historical backbone network united nsfnet national science policy traffic carried restricts traffic messages support effort certain government laboratories there commercial traffic directly connected
+
+nowadays internet without connecting directly amount commercial traffic
+
+making product information brochures available postal
+
+allowing inquiries
+
+starting mailing customers
+
+setting clients information about product without having direct connection
+
+putting product information anonymous server fileserver willing
+
+there services support mailservers anonymous prediction advertising medium develop persons could information bulletin members million people
+
+unless specific industries information paper intensive information unless access government information weather internet consist downloading programs getting latest technical
+
+overlooks important aspect internet internet evolving likely important medium transacting customer service advertising future matter industry businesses employees adept using internet competitive advantage firms should encourage employees personal internet connections learn about internet after
+
+special students their parents
+
+since internet academic university students likely level access would services research likely available students terminal local their
+
+students especially
+
+checking university library catalogue
+before walking
+finding about campus events other
+through gopher school bulletin boards
+posting notices computer
+
+contacting potential tutors either their university netwide called usenet prepared answer questions various subjects already exists usenet
+
+using online catalogues other university libraries books interlibrary compile bibliographies
+
+downloading software information
+
+finding scholarship information
+
+parents communicate their children college probably faster response waiting occasional letter worried parents using command their children logged their
+
+special printers
+
+there probably industry which information critical media publishing journalists explore networks tools described first track conduct prompt publishers interested electronic transmission manuscripts writers soliciting publication still equivalent electronic sending stamped publishers interested sharing developing image processing software other transmitting
+
+libraries research often involve searching books already amount information never circlulated paper already scientific technical community where printing luxury rather given single videotape pages possible hoard amounts information never possibly print imagine technology hands government other image editor receive press releases through postal
+
+internetworking technology allows virtually business individual their providing information about their business special interest select group capability completely analogous which printing hands business
+
+journalists other writers overlook kaleidascopic mixture technical product general ranting usenet already channels typcial satellite growing channels tucked among programs minute information internetworked certainly writers scientific technical columns source
+
+special elementary school teachers
+
+there special internet services elementary secondary school teachers provided mostly through education offices research around refernce teachers guide education office national center supercompter paper version available
+
+network version located available microsoft format binary unable format directly convert format order paper
+
+guide covers connect technical details suggested projects introduce children information about space program access programs newton bulletin board service science teachers argonne national
+
+usenet hierarchy which provides gateway besides there several other regional networks specifically teachers
+
+exciting prospects teachers sharing other materials other although sharing routine bulletin boards regional networks cater anonymous sites possibility worldwide collection contributed materials electronic
+
+
+
+following instructions chapter sending anonymous floppy return mailer prepaid
+
+freelore project
+
+
+materials copyright notice allowing anyone distribute educational
+
+special librarians
+
+libraries among heaviest users information cataloguing patron several companies specialize providing internet access access libraries increasingly these services because promise following
+
+inexpensive access hundreds online library
+
+often access information services using
+telnet rather special software
+access netwide searching tools
+
+discussion other conference reports
+
+librarian librarians archives piecemeal their contents uniform whole internet probably rough ready tools customs grown provide access information there great librarians doubtless employed
+
+librarians hierarchical organization these provide implicit universal number electronic
+
+
+
+common bibliographic citation reference
+
+internet carries number hidden expenses dangers
+
+somewhat increase expense computer
+technical needed libraries
+additional phone lines become especially
+public access internet contemplated
+staff training needs greater
+
+local computer system virus protection software regular backups anyway seldom practiced persons trained conservation should
+
+material internet arouse complaints public because represents views unpopular minorities there great pornographic material available through usenet issues public access minors played domain electronic
+
+addition standard package services librarians should neglect usenet means getting special account different service accessing telnet through primary learning usenet newgroups their invaluable asked important skill professional development means encourage computer think usenet newsgroups reference section
+
+special scholars
+
+scientists technologists academic today there humanists social scientists happily gabbing their friends other collaborating subscribing writing addition academic computing environment described chapter
+
+entree world access finding mailing newsgroup there interesting materials groups short start sources mailing lists listservers increasingly usenet actually newsgroups useful lists moment because academic hierarchy subdivided computer science there whole hierarchy computer linguistics these discussion groups either participants should ignore computer networking information relevant
+
+listservers another allow distribution articles anyone whole refereed allow archiving articles place anyone electronic journal reader message these usually address message listserver after messages publication service requests
+
+listserver avail yourself pdqfan command mailing newspaper series fifty messages interspersed throughout digest includes correspondence record happens without digest instructions message
+
+ultimately humanities infrastructure services already forming
+
+access preprints collections journal articles
+
+archives special purpose
+
+collections source these
+include special statistical
+programming tools routine scholarly tasks typesetting creating bibliographic format specific
+
+scholars humanities should check archives georgetown university message these archives materials field available scholarly purposes nominal check oxford archives writing archives searchable online index
+
+special mosques
+
+suprising religious organizations recognize importance communications medium religious organizations computers producing newsletters accounting other office effectively telecommunication
+
+internet television broadcast internet appropriate communications medium religions organizations centrally reaches persons receive information
+
+there nothing prevent religious organization setting fileserver commercial there member organization upload download library regional local special directory local listings organizations already thing bulletin archives provide expensive method disseminating information reach anywhere local region single
+
+promise internetworking beyond already touch educational evangelical information about organization beliefs instantly available million people
+
+there great preparing copyrighted locked proprietary means cannot freely especially those written plain great demand among blind special software convert persons remote areas third
+
+distribution limited internet thousands bulletin boards passed machines floppy printed disseminated photocopying inexpensive printing method internet backbone worldwide distribution network reach anyplace sophisticated enough printing
+
+there basically create something public domain years create copyright notice allowing anyone distribute enough merely information nominal unless allow others right further distribute information really sometimes floppy
+
+religious literature typing quite consists james bible nicene mormon related bible certainly various denominations should consider releasing their basic liturgical texts selection their religious literature modern versions bible problem because copyright would certainly organization modern version sense anyone could distribute
+
+advanced techniques
+
+research methods basic navigation methods
+
+internet certainly experienced wants check occasional bibliographic navigation almost three common navigation tools discussed represent three different approaches target target interface program three services known information service world
+
+three services based information others special software called program access often written whoever funded initial project volunteer catch using client connection reason connection become thinking direct connection without expense hooking computer local network client program office computer
+
+still services listed writing three services allow access client demonstration there number telnet addresses where these navigation expect traffic network these public access sites close communications programs routinely include probably version major
+
+services built telnet provide different perhaps useful making internet service appear several depending connect there gateways access service often price terms since software looking service three services makes reliable
+
+another factor consider unless direct limited using command experience power nevertheless beginner should gopher other services useful
+
+problem information client could paste information screen communications store results search resort fetch information located figure where criticisms search tools gopher often indication where information found physically especially publically accessible
+
+gopher
+
+gopher created university provides internet where gopher servers gopher spread search student directories campus usual internet easiest explore without entering numerous telnet
+
+since gopher oldest decentralized provides extensive access useful online library project gutenberg numerous exits
+
+telnet access demonstration gopher systems through
+gopher servers
+
+
+students course gopher directly their typing
+
+information services
+
+developed different environment developed joint collaboration thinking intellegence jones retrieval apple computer ability information given plain english description everthing personal computers truely returns together likelihood contains documents sample
+
+interface pleasure requires direct connection version publically available imitation
+
+strength ability retrieve information almost sources maintained import instructions access given information server create personalized
+
+service probably greatest interest business telnet
+
+world
+
+newest three services world created european european center energy physics based another technology world views entire complex sites single
+
+server document result rather driven system least graphical interface inside familiar context imagine clicking having editor fetch document
+
+documents viewed ascii special addresses syntax standard generalized markup language language scholars academic vision library future collection documents spread whole which looked starting having whole world
+
+there points entry
+
+telnet center energy physics
+
+summary navigation tools
+
+three systems together their underlying technology
+
+gopher simple telnet campus
+
+artificially intellegent searches business
+
+world hypertext markup research
+
+research methods usenet newsgroups
+
+chapter under
+
+research methods advanced techniques
+
+previous chapters covered standard techniques finding around chapter covers
+
+there three basic every researcher using internet eventually
+
+information their
+
+information
+
+desired information their information
+
+methods described chapter tentative preceeding always
+
+finding persons computers
+
+there couple standard methods checking verifying
+
+
+
+prompt computer gives system prompt should message saying something
+
+machines support command called return dotted decimal address given machine
+
+nslookup
+
+returns dotted decimal
+
+guess person valid address intended
+
+finger
+
+system supports feature number guesses information about their telephone logged their department systems allow leave called initial contains further contact
+
+guesses
+
+
+
+initials
+
+three initials
+
+
+
+numbers
+
+resort search program called machine person target keywords often guess should search southern north sufficiently state names
+
+short comings
+
+often fails target computer support
+
+works bitnet other
+
+telnet several standard locations
+
+server should alternate servers
+
+detailed information someone given usenet oriented towards helping university flood networks every looking addresses their
+
+finding information software
+
+easiest
+
+internet archive server first
+
+finding information software
+usenet archives
+archie
+finding references paper documents
+
+information still although paper available
+
+internet access bibliographic especially
+library catalogues
+document retrieval service provided
+colorado alliance research libraries
+someone xerox
+
+these which abstract theory specific omitted special
+
+resources
+
+resources internet found especially usenet including pdial nixpub listings various internet resource resources provided second important provide addresses titles neophyte information section point conclusive
+
+internet address
+
+chapter under
+
+bibliography
+
+books below contain great information about connecting course intended first which available especially network
+
+available internet
+incomplete guide internet macintosh microsoft paper version
+
+complete guide written education office national supercomputing agency contains complete duction internet classroom internet projects guide public school
+
+paper chuck springfield
+around
+surfing internet around choice introduction contains references other sources information together instructions especially complete giving information interest
+
+internet
+
+guide versions marked dialect typesetting still somewhat readable postscript version
+
+files called
+
+published works
+guide englewood
+
+whole internet guide
+
+internet
+guide global
+
+getting menlo
+
+crossing internet instructional library solutions solutions institute oregon
+
+glossary
+
+chapter under
+
+computer hints green
+
+computer plugged something anything happen lights screen frozen button light labelled something touching upper button computer switch labelled triangle
+
+determine whether looking character terminal moving mouse should cause pointer appear pointer click click mouse pressing button there mouse button things clicking windows makes active brings
+
+function labelled marked certain funny symbols modifier shift typewriter change effect typing clicking mouse function labelled something press keypad looks calculator function
+
+menus there string words screen touch words pointer using mouse mouse should continue holding mouse button select activate pointer commands middle
+
+hitting labelled labelled works shift press
+
+system responding usually carriage return hooked arrow click mouse button there before anything permanent sending command
+
+exception systems which print options expect number letter sometimes answering question carriage return default default often indicated
+
+really
+
+hitting return
+
+typing there upper righthand corner labelled backwards arrow erase
+
+message
+
+welcome fubar authorized persons
+
+
+
+computer wants username password system meant general donor database obvious names account meant general password password password something
+
+prompts computer prints funny symbol dollar percent question right angle bracket there blinking waiting systems online there might command
+
+point composing erase mistakes delete cursor marker marks where moved around arrow there select across release selected large block deleted delete moved issuing command function command
+
+their first initial initials three initials warned sites numbers serial numbers cutesy aliases usernames usually
+
+nothing seems supposed check systems either automatically translate commands upper either three differnt commands
+
+whatever change permanent unless write changes selecting other often there commands saves discards might changes ignore program should every minutes
+
+logging after properly saved program system finding command bottom either first typing something
+
+appendix using modem
+using modem relatively follow instructions modem communications these instructions cannot
+
+buying basic features
+should choose industry standard works modem small computer responds commands software beginning common tells modem
+
+modem responds modem about should consider buying modem expensive modem computer connection outside world never better modem
+
+faxes displayed computer print ordinary laser other features modem
+
+times faster
+
+compression
+
+error correction
+
+hooking modem
+modem between computers serial communications telephone modem probably included right check manual dealer
+
+modem phone connection standard telephone cable modular jacks either unplug phone socket modem leave answering plugged plugs allow plugged bottom piece equipment there should little sticker tells ringer equivalents equipment exceed eight phone
+
+inexpensive boxes single phone faxes
+
+usually other wired computer before computer computer modem confirm hooked check manual precise instructions hooking modem
+
+connecting computer office phone
+private branch exchange
+making connection
+usually another computer dialing phone either command software choose command something
+
+before attention software proper these settings listed literature about resort customer service computer trying connect different settings until common modem settings today either which means
+
+important settings
+
+typical speed being common modern
+
+control labelled modem going computer faster phone control software understands phone speed different modem phone faster computer times
+
+duplex connection duplex connection computers turns communicating means computer screen since sense other computer duplex connection computers local
+
+computer systems seven denote character eighth other important nowadays
+
+check errors transmission means parity transmitted parity agree software block parity common setting
+
+usual setting these
+
+modem speaker modem there squeals computers about computers establish modulated point modems light should carrier carrier software carrier
+
+whatever other computer light receive attention banner service connecting particular system typing character sequence characters allows tranmitting everything system especially important transferring incoming
+
+first steps system
+services connecting computer
+
+transferring
+getting computer another matter running these programs common common protocols kermit systems steps kermit
+
+kermit sending machine
+
+escape receiving machine
+
+kermit recieving machine
+
+transfer
+
+software manual specific unless direct internet connection these cases issue transfer protocol command whichever computer details other automatically taken chapter detail transferring
+
+disconnecting
+whatever procedure remote computer manual other literature information trying following
+
+fails carrier using command escape system
+
+resort telephone company disconnect software
+
+attention typing
+which varies modem modem connection
+technical details internet connections
+
+chapter under
+
+enough
+
+since operating system unfamiliar since workstations readers summarize peculiarities logged operating hides behind graphical interface windows networking unfortunately those quirks directory hierarchy
+
+appendix gives enough avoid pitfalls issue commands needed transfer basic commands system display directories contents about commands quirky other operating system command
+
+basic commands getting around
+
+current directory
+
+longer length bytes
+
+mydir level hierarchy directory
+
+directory hierarchy
+
+hierarchical system
+
+files arranged hierarchy
+
+things
+
+appendix distributed separately
+
+freelore things
+
+copyright rights distribute verbatim copies document commercial purposes provided notice preserved
+
+useful things electronic cases request handled automated system sends materials return systems change commands tested working
+
+system works
+
+command enter
+
+commands
+
+internet address
+different
+
+
+stance nuclear power
+
+enter
+
+disappointed until
+
+message
+
+
+
+modern automated mailservers expect command expect always
+
+cases response systems hours responses
+
+
+
+automated systems respond single command
+
+people change their directory systems around everyday commands given locate archie before requesting
+
+double quotes around commands command itself
+
+
+
+projects electronic supplies information about archives online detailed
+
+connect
+
+service provides internet transfer protocol
+
+anonymous reference
+
+
+
+instructions using archie
+
+archie lookup service finding software documents anonymous archives anonymous method making materials certain computers available anyone allowed username anonymous available internet
+
+users access anonymous server materials using binary files encoded files using programs these freeware programs anything besides
+
+started message there archie servers around archie complete
+
+started message
+
+
+
+
+
+public domain texts produced project
+
+either these texts almanac server direct project gutenberg
+
+message after reading message gutenberg alice
+
+etext alice
+
+contents project gutenberg message
+
+connect index
+
+
+
+actual
+
+connect
+
+
+
+anonymous archive
+
+
+
+
+
+
+
+mailing posted asked usenet
+
+typical mailing works mailing request message message members postings other members whitehouse politics
+
+usenet newsgroup archived cover every conceivable subject especially access archive message index materials message
+
+specific commands getting mailing
+
+
+
+
+
+other publications
+
+guide social newsgroups
+
+
+
+periodic informational
+
+
+
+
+
+complete
+
+
+
+anonymous archive
+
+
+
+posted usenet newsgroup
+
+listservers thing going persons without internet entire digest posted given lists espcecially anyone interest listservers known listserver obtained sending message listserver
+
+message listserver
+
+
+
+
+
+listserver brown respond global command worthwhile sending command other listservers
+
+lists traffic should consider command message compendium
+
+automatically supplied information about internet
+
+message address there other files their service available information their version message their version message
+
+scott internet there things
+
+
+
+
+
+
+
+another method request materials delayed
+
+connect
+
+
+
+worth adding above request between systems
+
+anonymous archive
+
+
+
+
+
+surfing librarian armour publication still basic orientation nearest thing library speech opened other world
+
+message
+
+connect
+
+other interesting files directory
+
+
+
+anonymous archive
+
+
+
+nixpub listing public access systems usenet
+
+message
+
+connect
+
+
+
+anonymous archive
+
+
+
+posted asked usenet newsgroup
+
+choice
+
+pdial listing dialup methods connecting internet general
+
+message command
+
+message
+
+
+
+country needs
+
+project gutenberg ebook email goodwin
+
+project gutenberg ebook email
+
+should named associated files various formats found
+
+updated editions replace previous editions
+
+creating works public domain print editions means united states copyright these foundation distribute united states without permission without paying copyright special forth general terms apply copying distributing project electronic works protect project concept project gutenberg registered charge unless receive specific charge anything copies complying rules ebook nearly purpose creation derivative performances modified printed given practically anything public domain redistribution subject trademark especially commercial
+
+license
+project gutenberg license please before distribute
+protect project mission promoting distribution electronic using distributing other associated phrase agree comply terms project license online
+
+section general terms redistributing project electronic works
+reading using project electronic indicate agree accept terms license intellectual property agree abide terms cease using return destroy copies project electronic works obtaining access project electronic agree bound terms obtain refund person entity forth paragraph
+
+registered associated electronic people agree bound terms there things project electronic works without complying terms paragraph there things project electronic works follow terms agreement preserve future access project electronic paragraph
+
+project gutenberg literary archive foundation compilation copyright collection project electronic nearly individual works collection public domain united individual public domain united states located united claim right prevent displaying creating derivative works based references project gutenberg support project mission promoting access electronic works freely sharing project works compliance terms agreement keeping project associated easily comply terms agreement keeping format attached project license share without charge particular copyrighted individual works included permission copyright information copyright owner particular terms imposed copyright holder forth beginning
+
+copyright place where located govern copyright countries constant state outside united check country addition terms agreement before distributing creating derivative works based other project foundation makes representations concerning copyright status country outside united
+
+unless removed references project
+
+following active links other immediate access project license appear prominently whenever project which phrase which phrase copied
+
+ebook anyone anywhere almost restrictions under terms project gutenberg license included ebook online
+
+individual project electronic derived public domain contain notice indicating posted permission copyright copied distributed anyone united states without paying redistributing providing access phrase associated appearing comply either requirements paragraphs through obtain permission project trademark forth paragraphs
+
+individual project electronic posted permission copyright distribution comply paragraphs through additional terms imposed copyright additional terms linked project license works posted permission copyright holder found beginning
+
+unlink detach remove project license terms files containing other associated project
+
+distribute redistribute electronic electronic without prominently displaying sentence forth paragraph active links immediate access terms project
+
+convert distribute marked nonproprietary proprietary including processing hypertext provide access distribute copies project format other vanilla other format official version posted official project additional expense provide means exporting means obtaining original vanilla other alternate format include project license specified paragraph
+
+charge access copying distributing project works unless comply paragraph
+
+charge reasonable copies providing access distributing project electronic works provided
+
+royalty gross profits derive project works calculated using method already calculate applicable owner project agreed donate royalties under paragraph project gutenberg literary archive royalty payments within following which prepare legally required periodic royalty payments should clearly marked project gutenberg literary archive foundation address specified section about donations project gutenberg literary archive
+
+provide refund money notifies writing within receipt agree terms project require return destroy copies works possessed physical medium discontinue access other copies project
+
+accordance paragraph refund money replacement defect electronic discovered reported within receipt
+
+comply other terms agreement distribution project
+
+charge distribute project electronic group works different terms forth obtain permission writing project gutenberg literary archive foundation michael owner project contact foundation forth section
+
+
+project gutenberg volunteers employees expend considerable effort copyright research transcribe proofread public domain works creating project despite these project electronic medium which contain limited inaccurate corrupt transcription copyright other intellectual property defective damaged other computer computer codes damage cannot
+
+limited disclaimer damages except replacement described paragraph project gutenberg literary archive owner project other party distributing project electronic under disclaim liability costs including legal agree remedies strict breach warranty breach contract except those provided paragraph agree trademark distributor under agreement liable punitive incidental damages notice possibility
+
+limited right replacement refund discover defect electronic within receiving receive refund money sending written explanation person received received physical return medium written person entity provided defective elect provide replacement received person entity providing choose second opportunity receive electronically second demand refund writing without further opportunities
+
+except limited right replacement refund forth paragraph provided other warranties express including limited warranties merchantibility fitness
+
+states allow disclaimers certain implied warranties exclusion limitation certain types disclaimer limitation forth agreement violates state applicable agreement shall interpreted maximum disclaimer limitation permitted applicable state invalidity unenforceability provision agreement shall remaining
+
+indemnity agree indemnify trademark agent employee anyone providing copies project electronic works accordance volunteers associated promotion distribution project electronic harmless costs including legal arise directly indirectly following which cause distribution project additions deletions project defect
+
+section information about mission project
+project synonymous distribution electronic works formats readable widest variety computers including exists because efforts hundreds volunteers donations people walks
+
+volunteers financial support provide volunteers assistance critical reaching project goals ensuring project collection remain freely available generations project gutenberg literary archive foundation created provide secure permanent future project future learn about project gutenberg literary archive foundation efforts donations sections foundation
+
+section information about project gutenberg literary archive foundation
+project gutenberg literary archive foundation profit educational corporation organized under state mississippi granted exempt status internal revenue federal identification number letter posted contributions project gutenberg literary archive foundation deductible extent permitted federal
+
+principal office located melan volunteers employees scattered throughout numerous business office located north email email contact links contact information found official
+
+additional contact
+gregory newby
+chief executive director
+
+section information about donations project gutenberg literary archive foundation
+project depends cannot survive without spread public support donations carry mission increasing number public domain licensed works freely distributed machine readable accessible widest array equipment including outdated small donations particularly important maintaining exempt status
+
+foundation committed complying regulating charities charitable donations states united compliance requirements uniform takes considerable paperwork these solicit donations locations where received written confirmation donations determine status compliance particular state visit
+
+while cannot solicit contributions states where solicitation prohibition against accepting unsolicited donations donors states approach offers
+
+international donations gratefully cannot statements concerning treatment donations received outside united alone swamp small
+
+please check project gutenberg pages current donation methods donations accepted number other including online payments credit please
+
+section general information about project electronic
+professor michael originator project concept library electronic works could freely shared thirty produced distributed project ebooks loose network volunteer
+
+project ebooks often created several printed which confirmed public domain unless copyright notice necessarily ebooks compliance particular paper
+
+ebook subdirectory number ebook often several formats including plain vanilla compressed
+
+corrected editions ebooks replace filename etext replaced older versions based separate sources treated ebooks receiving filenames etext
+
+people start which search
+
+
+includes information about project including donations project gutenberg literary archive produce subscribe email newsletter about
+
+ebooks posted prior november ebook numbers below filed directories based their release download these ebooks rather using regular search system utilize following addresses download etext
+
+
+
+
+ebooks posted since november etext numbers filed different release longer directory based etext number identical single digits corresponding digit example ebook filename would found
+
+
+filename would found
+
+alternative method locating
+
+license
